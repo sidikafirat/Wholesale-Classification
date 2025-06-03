@@ -42,6 +42,9 @@ Bu çalışma, müşterilerin yıllık harcama kalıplarına göre sınıflandı
 6. 📈 Özellik önemlerinin ve sınıf dağılımlarının analizi
 
 ---
+## 🧰 Proje Sunum Videosu 
+- **Link**: [Sunum](https://youtu.be/r4IkMQvrd-E?si=E2ZdmZWM1YtFfXLH)
+--- 
 
 ## ✅ Model Başarım Sonuçları
 
