@@ -105,7 +105,7 @@ Ticari bir kullanım amacı bulunmamaktadır.
 
 ## 👩‍💻 Geliştirici
 
-**Sıdıka Fırat**  
+**Sıdıka Firat**  
 🎓 Bursa Teknik Üniversitesi  
 💻 Bilgisayar Mühendisliği  
 📘 Ders: BLM0463 Veri Madenciliğine Giriş  
