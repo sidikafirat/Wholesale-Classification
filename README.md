@@ -58,10 +58,17 @@ Bu çalışma, müşterilerin yıllık harcama kalıplarına göre sınıflandı
 
 ## 📉 Görselleştirmeler
 
-- Karar ağacı yapısı (plot_tree)  
-- Sınıflara göre öznitelik dağılımları (violin plot)  
-- Özellik önem grafiği (bar chart)  
-- Korelasyon grafikleri
+- Karar Ağacı Yapısı (plot_tree)
+  ![Karar Ağacı](images/egitilmiskarar.png)
+- Sınıflara Göre Öznitelik Dağılımları (violin plot)
+   ![Violin Plot](images/barplot.png)  
+- Sınıf Dağılımı (bar chart)
+  
+   ![Sınıf Dağılımı](images/sınıfdagilimi.png)
+  
+- Korelasyon Grafikleri
+  
+   ![Korelasyon](images/korelasyon.png)
 
 ---
 
